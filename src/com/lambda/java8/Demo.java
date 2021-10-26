@@ -2,7 +2,7 @@ package com.lambda.java8;
 
 public class Demo {
 	public void display1() {
-		System.out.println("from interface with unimplemented method public void display");
+		System.out.println("from interface with    unimplemented method public void display");
 	}
 
 	public static void main(String[] args) {
